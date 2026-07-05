@@ -1,0 +1,9 @@
+{
+  "short_name": "TaxTracker",
+  "name": "TaxTracker — Tax filing and management",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1b2a3a",
+  "background_color": "#f6f3ea"
+}
